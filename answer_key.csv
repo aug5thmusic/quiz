@@ -1,0 +1,17 @@
+file_name	composer	ai_or_human	effort	title	genre	prompt
+quiz1.mp3	Buxtehude	human	human	Nun bitten wir den heiligen Geist, Wv209	Chorale prelude	na
+quiz2.mp3	Vivaldi	human	human	Concerto in D Minor for Viola d'amore and Lute	Concerto	na
+quiz3.mp3	Claude Opus 5.5	ai	extra high	Fugue in A minor	Fugue	In LilyPond, write a 3-voice fugue for harpsichord in the style of Bach.
+quiz4.mp3	Bach	human	human	Trio Sonata V in C major, BWV 529	Organ	na
+quiz5.mp3	ChatGPT-6 Astra	ai	extra high	Sonate da Chiesa (Violin)	Sonata	In LilyPond, write the first two movements of a sonata da chiesa for violin and basso continuo (cello) in the Baroque style, D major. Use two staves: one for the violin and one for the bass. Each movement should be 16-32 measures in length.
+quiz6.mp3	ChatGPT-6 Astra	ai	max	Oboe Concerto in D minor	Concerto	In LilyPond, write the opening movement of an oboe concerto in the virtuosic style of Albinoni, D minor, 2/4 time, allegro. Give the music a serious and regal character, with a variety of runs, figuration, and dotted rhythms. Use two staves for the basso continuo and one for the oboe. Use the ritornello form, and do not introduce the soloist until the second section. Make the basso continuo part as dynamic and interesting as the oboe.
+quiz7.mp3	Albinoni	human	human	Sonata da Chiesa No. 6, Mvt. 2	Sonata	na
+quiz8.mp3	Claude Opus 5.5	ai	extra high	Oboe Concerto in C minor	Concerto	In LilyPond, write the opening movement of an oboe concerto in the virtuosic style of Vivaldi, C minor, 2/4 time, allegro. Give the music a serious and regal character, with a variety of runs and dotted rhythms. Use two staves for the basso continuo and one for the oboe. Use the ritornello form, and do not introduce the soloist until the second section. Make the basso continuo part as dynamic and interesting as the oboe.
+quiz9.mp3	Handel	human	human	Fugue in G minor, HWV 605	Fugue	na
+quiz10.mp3	Lully	human	human	Aria from Armide (Act II, scene iii)	Aria	na
+quiz11.mp3	Graupner	human	human	Oboe d'amore Concerto, GWV 313	Concerto	na
+quiz12.mp3	Claude Opus 5.5	ai	extra high	Herr Gott, dich loben alle wir	Chorale prelude	In LilyPond, write a chorale prelude for organ in the style of Bach.
+quiz13.mp3	Telemann	human	human	Recorder Duet from Der getreue Music-Meister (1728), TWV 40-107	Duet	na
+quiz14.mp3	ChatGPT-6 Astra	ai	extra high	Oboe Sonata in G minor	Sonata	In LilyPond, write the opening movement of an oboe sonata in the high baroque style of Vivaldi, G minor, 4/4 time, adagio. Give the music a lachrymal character, with a variety of figuration and ornamentation. Enliven the harmony with a tasteful amount of secondary dominants. Use two staves for the basso continuo and one for the oboe. Do not introduce the oboe in the first bar. Make the basso continuo part as dynamic and interesting as the oboe.
+quiz15.mp3	ChatGPT-6 Astra	ai	extra high	Flute Concerto in G	Concerto	In LilyPond, write the opening movement to a flute concerto in the virtuosic style of Quantz, G major, 4/4 time, allegro. Give the music a cheerful and galant character, with a variety of ornamentation. Use two staves for the basso continuo and one for the flute. Use the ritornello form, and make the basso continuo part as dynamic and interesting as the flute.
+quiz16.mp3	ChatGPT-6 Astra	ai	extra high	Violin Sonata in D	Sonata	In LilyPond, write a violin sonata movement in the high baroque style of Handel, D major, 3/4 time, allegro. Give the music a jaunty, cheerful, and galant character. Use two staves for the basso continuo and one for the violin.
