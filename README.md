@@ -11,3 +11,10 @@ Anyone is free to use the quiz data however they like.
 ## Data
 
 **[Download the complete repository as a ZIP](https://github.com/aug5thmusic/quiz/archive/refs/heads/main.zip)**
+
+## AI Music
+
+The quiz used 1-minute excerpts. If you want to hear the complete pieces written by AI, two have been uploaded to YouTube:
+
+- [Claude Opus 5.5 – Fugue in A minor](https://www.youtube.com/watch?v=owySLblsyME)
+- [Claude Opus 5.5 – Oboe Concerto in C minor, I. Allegro](https://www.youtube.com/watch?v=VM40v_i2cBs)
